@@ -1,0 +1,32 @@
+typography_spectrum: 0.8666247082874179
+color:
+  brandStrength: 0.4492879493627697
+  lightness: 0.752949655521661
+  saturation: 0.7209904841147363
+  rhythmicContrast: 0.43658367334865034
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+layout_spectrum: 0.8649430596269667
+name: mycityhealth.in
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About Us
+    id: f80f0d16-e060-4d70-b546-7cee8cdf189a
+    type: content
+title: My City Health
+content: []
+description: A dashboard for all of your city problems
+github: true
+author:
+  name: vijay sudheer
+  email: g.vijaysudheer@gmail.com
