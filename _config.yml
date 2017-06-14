@@ -26,8 +26,8 @@ collections:
       number: 10
 content: []
 navigation:
-  - id: f80f0d16-e060-4d70-b546-7cee8cdf189a
-    name: About Us
+  - name: About Us
+    id: f80f0d16-e060-4d70-b546-7cee8cdf189a
     type: content
 layout_spectrum: 0.1466952001497076
 color:
