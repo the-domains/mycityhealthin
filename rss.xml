@@ -4,16 +4,9 @@
         <description><![CDATA[My City Health]]></description>
         <link>https://thegrid.ai/mycityhealthin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Jun 2017 02:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2017 02:36:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mycityhealthin/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Jun 2017 02:35:00 GMT</pubDate>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtkE1vgzAMhv9Kg9QTGsROSJyqtNp6nbZDDzsHCAWJLxE6un-_sO5gy-9j65XtY1vPtnc7P5d51CzL5A9puq5rchvHW-eScuzT3k4-dX3hqvNU5Ax6oC1hSIJBhURZAiIjKUgQaWRYvWiTaKmRVMAAyImJSopEkTLCgDYBoWC4GdScYQixRR9MW-AoGbZaEZM1iAQCD3Nbz_MHERaQkckAhUHSe_HKH6JGiTWqEgtEZcMKHoDiS2dnN5Quvi57vMRv4dRpGYet_vyI39VXDFezqYsdbGVZ5v538G4IFnfP5DdIoyUiV4pLFe3WtlqaPFKcR7vGtbdmySOZBfH3x2KcKzfnUdB--elcHj3JIQDbdeNa37vOl7Nzw-mYPn9_-gWifGvh" height="244"></iframe>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJwtkE1vgzAMhv9Kg9QTGsROSJyqtNp6nbZDDzsHCAWJLxE6un-_sO5gy-9j65XtY1vPtnc7P5d51CzL5A9puq5rchvHW-eScuzT3k4-dX3hqvNU5Ax6oC1hSIJBhURZAiIjKUgQaWRYvWiTaKmRVMAAyImJSopEkTLCgDYBoWC4GdScYQixRR9MW-AoGbZaEZM1iAQCD3Nbz_MHERaQkckAhUHSe_HKH6JGiTWqEgtEZcMKHoDiS2dnN5Quvi57vMRv4dRpGYet_vyI39VXDFezqYsdbGVZ5v538G4IFnfP5DdIoyUiV4pLFe3WtlqaPFKcR7vGtbdmySOZBfH3x2KcKzfnUdB--elcHj3JIQDbdeNa37vOl7Nzw-mYPn9_-gWifGvh</link>
-            <guid isPermaLink="false">b5ce98b1-4cff-4b6c-99db-042c028922ce</guid>
-            <pubDate>Wed, 14 Jun 2017 02:34:59 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 14 Jun 2017 02:36:09 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Leveraging the Artificial Intelligence we are building an Intelligent system which surveys the city at regular intervals and gives insights on waste management, town planning, status of public infrastructure like roads, parks and buildings. The surveyed data received through AI enabled Dash-cams which are mounted on a survey vehicle would help building a city health dashboard, local municipal authorities can use these insights for better city planning and maintenance.</p>]]></description>
