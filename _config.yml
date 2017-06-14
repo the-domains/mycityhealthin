@@ -11,7 +11,7 @@ color:
     - '#40411E'
     - '#32331D'
     - '#C03000'
-name: mycityhealth.in
+name: My City Health
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -106,3 +106,4 @@ purpose:
   - type: internal
     label: What we do
     item: f80f0d16-e060-4d70-b546-7cee8cdf189a
+url: 'http://mycityhealth.in/'
