@@ -4,7 +4,8 @@ github: true
 description: A dashboard for all of your city problems
 author:
   name: © Team City Health - Maintained by Vijay Sudheer
-  email: g.vijaysudheer@gmail.com
+  email: g.vivijay.gundlapalli@outlook.com
+  url: 'http://mycityhealth.in/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
