@@ -49,7 +49,6 @@ content:
       description: >-
         Model pre-trained on ImageNet, fine-tuned on MS COCO that has 80
         categories. Frame-by-frame detection, no temporal processing.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
@@ -99,7 +98,7 @@ description: A dashboard for all of your city problems
 github: true
 author:
   name: vijay sudheer
-  email: g.vijaysudheer@gmail.com
+  email: vijay.gundlapalli@outlook.com
 purpose:
   - type: contact
     url: 'mailto:vijay.gundlapalli@outlook.com'
