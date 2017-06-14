@@ -30,3 +30,7 @@ github: true
 author:
   name: vijay sudheer
   email: g.vijaysudheer@gmail.com
+purpose:
+  - type: contact
+    url: 'mailto:vijay.gundlapalli@outlook.com'
+    label: Contact us
