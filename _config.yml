@@ -1,17 +1,10 @@
-layout_spectrum: 0.14669520014970758
-typography_spectrum: 0.489036908327316
-color:
-  brandStrength: 0.3422983203946364
-  lightness: 0.1502700574488591
-  saturation: 0.6644868488906708
-  rhythmicContrast: 0.8529745160320792
-  brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
-name: My City Health
+name: mycityhealth.in
+analytics: {}
+github: true
+description: A dashboard for all of your city problems
+author:
+  name: © Team City Health - Maintained by Vijay Sudheer
+  email: g.vijaysudheer@gmail.com
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -19,91 +12,37 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
 navigation:
-  - name: About Us
-    id: f80f0d16-e060-4d70-b546-7cee8cdf189a
+  - id: f80f0d16-e060-4d70-b546-7cee8cdf189a
+    name: About Us
     type: content
+layout_spectrum: 0.1466952001497076
+color:
+  lightness: 0.1502700574488591
+  brandColors:
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  saturation: 0.6644868488906708
+  brandStrength: 0.3422983203946364
+  rhythmicContrast: 0.8529745160320792
+content_rating:
+  adult: false
+typography_spectrum: 0.489036908327316
+opengraph: {}
 title: My City Health
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWZmSMkK9VuA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWZmSMkK9VuA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWZmSMkK9VuA%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: Kaiming He
-          url: 'https://www.youtube.com/user/kaiminghe'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
-      keywords:
-        - ''
-      description: >-
-        Model pre-trained on ImageNet, fine-tuned on MS COCO that has 80
-        categories. Frame-by-frame detection, no temporal processing.
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=WZmSMkK9VuA&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=WZmSMkK9VuA'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=WZmSMkK9VuA
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=WZmSMkK9VuA
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=WZmSMkK9VuA'
-      title: Object detection in the wild by Faster R-CNN + ResNet-101
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: A dashboard for all of your city problems
-github: true
-author:
-  name: ' © 2017 Team My-City-Health. Maintained by Vijay Sudheer'
-  email: vijay.gundlapalli@outlook.com
-purpose:
-  - type: contact
-    url: 'mailto:vijay.gundlapalli@outlook.com'
-    label: Contact us
-  - type: internal
-    label: What we do
-    item: f80f0d16-e060-4d70-b546-7cee8cdf189a
-url: 'http://mycityhealth.in/'
