@@ -25,7 +25,36 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3lCjXPCd-kQ&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F3lCjXPCd-kQ&type=text%2Fhtml&key=a715cf41cc93453ca338d350cd26f87b&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://youtube.com'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - ''
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/3lCjXPCd-kQ'
+      title: YouTube
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
   - name: About Us
     id: f80f0d16-e060-4d70-b546-7cee8cdf189a
